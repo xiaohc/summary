@@ -14,7 +14,7 @@
 专家 = 识别模式(或模型) + 直觉
 
 ### 思考模型
-![思模型图](https://github.com/xiaohc/wisdom/blob/master/t1.jpg)
+![思模型图](https://github.com/xiaohc/wisdom/blob/master/resources/LearningModel.png?raw=true)
 
 
 ### 问题本质模型
