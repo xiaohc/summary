@@ -1,5 +1,4 @@
-# <font face="微软雅黑" size="5">如何提升技能</font>  
-# <font face="微软雅黑" size="4">——我的心得</font>  
+# <font face="微软雅黑" size="5">如何提升技能——我的心得</font>  
 <font face="微软雅黑" color="green" size="4">Created by xiaohongchao</font>
 
 >所谓天才，不过是掌握了诀窍而已。
@@ -20,7 +19,7 @@
 ![能力模型图](https://github.com/xiaohc/wisdom/blob/master/resources/CognitionMode.jpg?raw=true)
 
 
-### 各阶段提升能力
+### 各阶段如何提升能力
 
 >整体说明
 
