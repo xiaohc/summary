@@ -1,13 +1,11 @@
-# 我的心得 
+<font face="微软雅黑" size="5">如何提升技能</font>  
+<font face="微软雅黑" size="4">——我的心得</font>  
 <font face="微软雅黑" color="green" size="4">Created by xiaohongchao</font>
 
->## <font face="微软雅黑" color="blue" size="5">认知</font>
-所谓天才，不过是掌握了诀窍而已。
-
-### 认知模型
+>所谓天才，不过是掌握了诀窍而已。
+  
+## 能力模型
 >能力层次（德雷福斯模型）
-
-![认知模型图](https://github.com/xiaohc/wisdom/blob/master/resources/CognitionMode.jpg?raw=true)
  
 | 阶段 | 特征 | 总结 |  
 | :-: | - | - |  
@@ -16,6 +14,13 @@
 | 胜任者 | 能够解决问题 | 理解（内部原理） |  
 | 精通者 | 能够自我纠正 | 道（本质规则） |  
 | 专家 | 凭直觉工作 | 道法自然 |  
+
+## 能力提升模型
+
+![能力模型图](https://github.com/xiaohc/wisdom/blob/master/resources/CognitionMode.jpg?raw=true)
+
+
+### 各阶段提升能力
 
 >学习层次
 
