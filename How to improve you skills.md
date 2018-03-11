@@ -50,11 +50,13 @@
 #### 思考阶段
 推荐《思考的艺术》、《学会提问》、《算法设计与分析基础》
 
->拓展模型
+>创造性思维模式（思）  
+![思模型图](https://github.com/xiaohc/wisdom/blob/master/resources/ThinkModel.jpg?raw=true)
+
 
 >批判性思维模式（考）
 
->创造性思维模式（思）
+>拓展模型
 
 >问题解决模式
 
