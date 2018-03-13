@@ -55,6 +55,7 @@
 
 
 >批判性思维模式（考）
+![考模型图](https://github.com/xiaohc/wisdom/blob/master/resources/QuestionModel.jpg?raw=true)
 
 >拓展模型
 
