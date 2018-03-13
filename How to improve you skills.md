@@ -54,7 +54,7 @@
 ![思模型图](https://github.com/xiaohc/wisdom/blob/master/resources/ThinkModel.jpg?raw=true)
 
 
->批判性思维模式（考）
+>批判性思维模式（考）  
 ![考模型图](https://github.com/xiaohc/wisdom/blob/master/resources/QuestionModel.jpg?raw=true)
 
 >拓展模型
