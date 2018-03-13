@@ -53,11 +53,11 @@
 >创造性思维模式（思）  
 ![思模型图](https://github.com/xiaohc/wisdom/blob/master/resources/ThinkModel.jpg?raw=true)
 
-
 >批判性思维模式（考）  
 ![考模型图](https://github.com/xiaohc/wisdom/blob/master/resources/QuestionModel.jpg?raw=true)
 
->拓展模型
+>拓展模型  
+![扩展模型图](https://github.com/xiaohc/wisdom/blob/master/resources/ExtensionModel.jpg?raw=true)
 
 >问题解决模式
 
