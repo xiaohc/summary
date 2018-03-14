@@ -45,19 +45,20 @@
 
 >讲故事表述模式
 
->讲解决方案模式
+>理解解决方案的步骤  
+|  | 步骤 | 细节 | 类比 |  
+| :-: | - | - |  
+| 1 | 感性认识 | 背景、原因、解决什么问题 | UML用例图 |      
+| 2 | 分析结构构成 | 静态结构 | UML类图、对象图 |  
+| 3 | 分析全生命周期的交换流程 | 动态结构 | UML顺序图、通信图、活动图 |    
+| 4 | 分析适用范围、问题 | 测量、纠正 |  |  
+| 5 | 应用、扩展 |  |  |  
 
 #### 思考阶段
 推荐《思考的艺术》、《学会提问》、《算法设计与分析基础》
 
 >创造性思维模式（思）  
 ![思模型图](https://github.com/xiaohc/wisdom/blob/master/resources/ThinkModel.jpg?raw=true)
-
->批判性思维模式（考）  
-![考模型图](https://github.com/xiaohc/wisdom/blob/master/resources/QuestionModel.jpg?raw=true)
-
->拓展模型  
-![扩展模型图](https://github.com/xiaohc/wisdom/blob/master/resources/ExtensionModel.jpg?raw=true)
 
 >解决方案的设计验证步骤  
 
@@ -68,6 +69,13 @@
 | 3 | 设计 | 确定方案实施基础（类似算法的数据结构）、设计方案 |  
 | 4 | 验证 | 验证正确性、安全性、分析效率等 |  
 | 5 | 实施 | 测量、纠正 |  
+
+>批判性思维模式（考）  
+![考模型图](https://github.com/xiaohc/wisdom/blob/master/resources/QuestionModel.jpg?raw=true)
+
+>拓展模型  
+![扩展模型图](https://github.com/xiaohc/wisdom/blob/master/resources/ExtensionModel.jpg?raw=true)
+
 
 #### 练习阶段
 一万小时定律
