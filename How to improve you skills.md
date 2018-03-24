@@ -14,10 +14,6 @@
 | 精通者 | 能够自我纠正 |  
 | 专家 | 凭直觉工作 |  
 
-## 提升模型
-
-![能力模型图](https://github.com/xiaohc/wisdom/blob/master/resources/CognitionMode.jpg?raw=true)
-
 
 ### 如何提升能力
 
@@ -30,6 +26,10 @@
 | 胜任者->精通者 | 总结->思考->验证（尝试->反馈->纠正） | 从局部到全面，从大体到细节 |  
 | 精通者->专家 | 练习（大量验证）->直觉 | 悟道（本质规则） |  
 
+
+## 提升模型
+
+![能力模型图](https://github.com/xiaohc/wisdom/blob/master/resources/CognitionMode.jpg?raw=true)
 
 
 | 战略 | 战术 | 重点 |  
