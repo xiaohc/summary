@@ -109,6 +109,8 @@
 >讲故事表述模式
 
 >理解解决方案  
+
+>认知模型  
 ![认知模型图](https://github.com/xiaohc/wisdom/blob/master/resources/StudyModel.jpg?raw=true)
 
 |  | 步骤 | 细节 | 类比 |  
